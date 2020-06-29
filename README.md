@@ -1,8 +1,8 @@
-_This project does not take any security considerations into account currently (or ever)! Please use Jenkins or something similar if you care at all about your system!
+__This project does not take any security considerations into account currently (or ever)! Please use Jenkins or something similar if you care at all about your system!__
 
 
 # Zapper
-_def: slang for a remote control
+_def: slang for a remote control_
 
 A simple webapp that lists and executes shell scripts, and displays their output.
 
@@ -14,9 +14,3 @@ Install guide:
 - Fill up "scripts" with shell scripts or executables (remember to chmod them)
 - Run the zapper.py file in the parent folder
 - Hit port 5000 on the machine's ip
-
-
-
-er to chmod them)
-15
-Run the zapper.py file in the parent folder
